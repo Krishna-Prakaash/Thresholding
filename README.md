@@ -92,14 +92,22 @@ for i in range(0,8):
 # Output
 
 ## Original Image and GRAY IMAGE
+![OP-01](ORIGINAL.PNG)
+![OP-02](GRAY.PNG)
 
 ## Global Thresholding
-
-
+![OP-03](THRESHOLD.PNG)
+![OP-04](THRES-2.PNG)
+![OP-05](THRES-3.PNG)
+![OP-06](THRES-4.PNG)
+![OP-07](THRES-5.PNG)
 ## Adaptive Thresholding
+![OP-08](THRES-6.PNG)
+![OP-09](THRES-7.PNG)
 
 
 ## Optimum Global Thesholding using Otsu's Method
+![OP-10](THRES-8.PNG)
 
 
 
